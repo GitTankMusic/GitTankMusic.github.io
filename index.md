@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## iOS
 
-You can use the [editor on GitHub](https://github.com/GitTankMusic/GitTankMusic.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+[輕語日記](itms-apps://itunes.apple.com/app/id1214684416) 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
